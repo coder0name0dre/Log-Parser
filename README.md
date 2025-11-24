@@ -29,7 +29,7 @@ It supports SSH, PAM, and `sudo` authentication failures, and prints results in 
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/log-parser.git
+git clone https://github.com/coder0name0dre/log-parser.git
 cd log-parser
 ```
 
@@ -87,4 +87,4 @@ sudo ./log_parser.py /var/log/auth.log
 
 ## 📜 License
 
-MIT License. See [LICENSE](https://github.com/dre86dre/Log-Parser/blob/main/LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/coder0name0dre/Log-Parser/blob/main/LICENSE) for details.
